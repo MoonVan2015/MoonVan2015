@@ -39,3 +39,8 @@
 <div>
 <img src= "https://github-readme-stats.vercel.app/api/?username=MoonVan2015" alt=""/>
 </div>
+
+### 📊: Статистика активности :
+<div>
+<img src="https://github-readme-active-graph.vercel.app/graph?username=MoonVan2015&theme=github" alt=""/>
+</div>
