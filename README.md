@@ -14,5 +14,12 @@
 </div>
 <div id="header" align="center"> 
 <h1>Мой профель на GITHUB </h1>
+  
 </div>
-### man_office_worker : Обо мне 
+### :office_worker: Обо мне:
+  
+  - :feelsgood: Чувствую себя прекрасно
+  - :crescent_moon: Рыцарь возмездия
+  - :person_in_tuxedo: Филантроп
+    
+### ⚒️ Инструменты и языки :
