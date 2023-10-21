@@ -42,5 +42,5 @@
 
 ### 📊: Статистика активности :
 <div>
-<img src="https://github-readme-active-graph.vercel.app/graph?username=MoonVan2015&theme=github" alt=""/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MoonVan2015&theme=vue" alt=""/>
 </div>
